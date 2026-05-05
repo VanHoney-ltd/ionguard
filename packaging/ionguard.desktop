@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ionguard
+Comment=NEMESIS ENGINE LAN Monitor
+Exec=ionguard
+Icon=ionguard
+Type=Application
+Categories=Network;System;Monitor;
+Terminal=false
+StartupNotify=true
